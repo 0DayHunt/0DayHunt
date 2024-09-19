@@ -2,6 +2,8 @@
 👾 Elvis Tastevens | Cybersecurity Enthusiast 🛡️<br>🚀 Graduated top of my class in Cybersecurity & IT Fundamentals with highest honors.<br>🔐 Passionate about securing the digital world, one exploit at a time.<br>💻 Code, break, secure, repeat.<br>👨‍💻 Always learning, always hacking, always improving.<br>⚡ "The quieter you become, the more you are able to hear."<br><br>
 [Cool website Matrix Snake Game](https://0dayhunt.github.io)
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/elvis-tastevens/) 
 
@@ -14,9 +16,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=0DayHunt&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=0DayHunt&limit=5&theme=radical&combine_all_yearly_contributions=true)
